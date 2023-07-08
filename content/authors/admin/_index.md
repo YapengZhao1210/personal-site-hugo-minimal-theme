@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 赵亚鹏
+name_pronunciation: ZHAO Ya Peng
 
 # Is this the primary user of the site?
 superuser: true
